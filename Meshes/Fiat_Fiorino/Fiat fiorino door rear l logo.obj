@@ -1,0 +1,19 @@
+# Blender v2.93.18 OBJ File: 'Fiat fiorino 8.blend'
+# www.blender.org
+mtllib Fiat fiorino door rear l logo.mtl
+o door_rear_l_logo_door_lr_ok.006
+v 11.473159 -8.126681 2.922539
+v 11.982242 -6.519389 2.856802
+v 5.488635 -6.599710 2.850951
+v 5.043138 -8.206122 2.917290
+vt 0.051218 0.759130
+vt 0.552685 0.651887
+vt 0.574105 0.759888
+vt 0.012542 0.651129
+vn -0.0013 0.0416 0.9991
+vn -0.0014 0.0414 0.9991
+vn -0.0014 0.0413 0.9991
+usemtl bump_front_ok.1
+s 1
+f 3/1/1 1/2/2 2/3/3
+f 1/2/2 3/1/1 4/4/1
