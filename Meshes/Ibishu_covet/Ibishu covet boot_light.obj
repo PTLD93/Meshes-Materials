@@ -1,5 +1,6 @@
-# Blender v2.93.18 OBJ File: 'Ibishu covet 8.blend'
+# Blender v2.93.18 OBJ File: 'Ibishu covet 9.blend'
 # www.blender.org
+mtllib Ibishu covet boot_light.mtl
 o boot_light_covet_chmsl
 v 2.649128 -14.378074 -11.315053
 v -0.000079 -15.163269 -11.516315
@@ -25,6 +26,7 @@ vn 0.0080 0.2153 -0.9765
 vn -0.0080 0.2153 -0.9765
 vn 0.0094 0.2184 -0.9758
 vn -0.0094 0.2184 -0.9758
+usemtl covet_chmsl
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 4/4/4 3/3/3
