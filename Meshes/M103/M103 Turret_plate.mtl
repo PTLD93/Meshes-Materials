@@ -1,0 +1,15 @@
+# Blender MTL File: 'M103 collisions 2.blend'
+# Material Count: 1
+
+newmtl Material006
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\selho\\Documents\\Decompiled\\M103\\A66_M103\\M103_turret_02_ANM_hd.png
+map_Kd C:\\Users\\selho\\Documents\\Decompiled\\M103\\A66_M103\\M103_turret_02_AM_hd.png
+map_d C:\\Users\\selho\\Documents\\Decompiled\\M103\\A66_M103\\M103_turret_02_AM_hd.png
